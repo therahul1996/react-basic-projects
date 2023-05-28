@@ -1,5 +1,4 @@
-import Main
- from "./components/tours/final/Main";
+import Main from "./components/lorem-text-generate/final/Main";
 
 function App() {
   return (
