@@ -1,4 +1,4 @@
-import Main from "./components/lorem-text-generate/final/Main";
+import Main from "./components/cocktails/final/Main";
 
 function App() {
   return (
