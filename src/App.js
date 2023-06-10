@@ -1,4 +1,4 @@
-import Main from "./components/cocktails/final/Main";
+import Main from "./components/movie-db/final/Main";
 
 function App() {
   return (
