@@ -10,18 +10,18 @@ import reportWebVitals from './reportWebVitals';
 // import { AppProvider } from '../src/components/cocktails/final/context';
 
 // for context cocktails
-import { AppProvider } from '../src/components/movie-db/final/context';
+// import { AppProvider } from '../src/components/movie-db/final/context';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  // <React.StrictMode>
-  //   <App />
-  // </React.StrictMode>
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
 // for context use
-<React.StrictMode>
+/* <React.StrictMode>
 <AppProvider>
   <App />
 </AppProvider>
-</React.StrictMode>
+</React.StrictMode> */
 );
 reportWebVitals();
 

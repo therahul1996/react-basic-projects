@@ -1,4 +1,4 @@
-import Main from "./components/movie-db/final/Main";
+import Main from "./components/dark-mode/final/Main";
 
 function App() {
   return (
